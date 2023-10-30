@@ -7,7 +7,7 @@ const stds = useSelector(students)
 
   return (
     <>
-    
+    {/* some bugs fixed */}
     <table border='1'>
       <tr>
         <th>id</th>
